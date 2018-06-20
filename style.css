@@ -1,0 +1,38 @@
+body,html{
+	height: 100%;
+	width: 100%;
+}
+
+.startup{
+	background: url('http://www.wallpaperbetter.com/wallpaper/411/485/138/amazing-galaxy-high-resolution-jpeg-1080P-wallpaper-middle-size.jpg') no-repeat fixed;
+	background-position: center;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+	font-family: 'Bree Serif', serif;
+	height: 100%;
+}
+
+.TextAboveButton{
+	font-weight: 500;
+	box-sizing: padding-box;
+	position: relative;
+	margin:auto;
+	width:50%;
+	padding:100px 5px;
+	color: white;
+	font-size: 44px;
+	justify-content: center;
+}
+.btn{
+	border-radius: 500px;
+	font-weight: 300;
+	font-size: 2rem;
+	position: relative;
+	margin:auto;
+	justify-content: center;
+}
+.btn-xl{
+	padding: 1rem 2rem;
+}
